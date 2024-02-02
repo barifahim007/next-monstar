@@ -1,0 +1,74 @@
+{
+  "postes": [
+    {
+      "id": 1,
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "like": 50,
+      "count": 30
+    },
+    {
+      "id": 2,
+      "title": "The Quick Brown Fox",
+      "description": "The quick brown fox jumps over the lazy dog. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "like": 75,
+      "count": 26
+    },
+    {
+      "id": 3,
+      "title": "Nature's Beauty",
+      "description": "Nature's beauty is unparalleled. It's a spectacle that enchants the soul and inspires the heart.",
+      "like": 90,
+      "count": 17
+    },
+    {
+      "id": 4,
+      "title": "Technological Advancement",
+      "description": "Technological advancement has revolutionized every aspect of modern life. From communication to healthcare, it shapes our world.",
+      "like": 120,
+      "count": 18
+    },
+    {
+      "id": 5,
+      "title": "Artistic Expression",
+      "description": "Artistic expression knows no bounds. It transcends cultures, languages, and generations.",
+      "like": 60,
+      "count": 14
+    },
+    {
+      "id": 6,
+      "title": "The Power of Knowledge",
+      "description": "The power of knowledge is infinite. It enlightens, empowers, and transforms individuals and societies.",
+      "like": 110,
+      "count": 14
+    },
+    {
+      "id": 7,
+      "title": "Exploring the Cosmos",
+      "description": "Exploring the cosmos ignites our curiosity and expands our understanding of the universe.",
+      "like": 85,
+      "count": 12
+    },
+    {
+      "id": 8,
+      "title": "Culinary Delights",
+      "description": "Culinary delights tantalize the taste buds and bring people together in shared moments of joy.",
+      "like": 70,
+      "count": 13
+    },
+    {
+      "id": 9,
+      "title": "Inspirational Stories",
+      "description": "Inspirational stories uplift the spirit and remind us of the resilience of the human soul.",
+      "like": 95,
+      "count": 14
+    },
+    {
+      "id": 10,
+      "title": "Echoes of History",
+      "description": "Echoes of history resonate through time, shaping our present and guiding our future.",
+      "like": 80,
+      "count": 11
+    }
+  ]
+}

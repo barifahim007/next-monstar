@@ -12,3 +12,12 @@
 10. what is link components and metadata?
 11. image component and import alias?
 12. next themes?
+
+<!-- todays sessions is next Level data fetching? -->
+
+1. what is json-server?
+2. how to use json-server?
+3. how json server works?
+4. how to fetch data in next js?
+5. what does mean by use force-cache?
+6. what is revalidate?
